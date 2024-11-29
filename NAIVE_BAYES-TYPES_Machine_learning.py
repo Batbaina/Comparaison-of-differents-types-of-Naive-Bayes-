@@ -37,7 +37,7 @@ from sklearn.naive_bayes import GaussianNB, BernoulliNB, CategoricalNB, Multinom
 
 
 
-# # DATA EXPLORATION
+# # DATA EXPLORATION ANALYSIS (EDA) 
 
 # In[ ]:
 
